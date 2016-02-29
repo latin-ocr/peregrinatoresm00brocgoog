@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./peregrinatoresm00brocgoog_0015.png"; bbox 0 0 5334 6975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 615 2417 1918 2550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 615 2417 1918 2550">
+     <span class='ocr_line' id='line_1_1' title="bbox 615 2417 1918 2550; baseline -0.003 1"><span class='ocrx_word' id='word_1_1' title='bbox 615 2419 1159 2550; x_wconf 70' lang='lat' dir='ltr'><strong>BURCHARM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1195 2421 1320 2550; x_wconf 80' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1358 2420 1674 2550; x_wconf 76' lang='lat' dir='ltr'>MONTE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1713 2417 1918 2549; x_wconf 68' lang='lat' dir='ltr'>sm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 830 2721 1702 2805">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 830 2721 1702 2805">
+     <span class='ocr_line' id='line_1_2' title="bbox 830 2721 1702 2805; baseline -0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 830 2723 1165 2805; x_wconf 68' lang='lat' dir='ltr'>1›1‹]s(*1{1P&#39;r10</span> <span class='ocrx_word' id='word_1_6' title='bbox 1188 2723 1413 2804; x_wconf 77' lang='lat' dir='ltr'><strong>TERRAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1437 2721 1702 2802; x_wconf 57' lang='lat' dir='ltr'>SANPTAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2672 6964">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2672 6964">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2672 6964; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2672 6964; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
